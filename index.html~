@@ -83,7 +83,7 @@
         <div class="container">
             <div class="intro-text">
                 <div class="intro-lead-in">Cicret Bracelet</div>
-                <a href="https://youtu.be/9J7GpVQCfms?t=2" class="page-scroll btn btn-xl">Ver video</a>
+                <a href="#services" class="page-scroll btn btn-xl">Ver video</a>
             </div>
         </div>
     </header>
